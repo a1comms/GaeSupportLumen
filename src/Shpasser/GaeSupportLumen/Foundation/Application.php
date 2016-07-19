@@ -136,7 +136,7 @@ class Application extends LumenApplication {
 
         $AppIdentityService = self::GAE_ID_SERVICE;
         $this->appId = $AppIdentityService::getApplicationId();
-        $this->runningOnGae = ! preg_match('/dev~/', getenv('APPLICATION_ID'));
+        $this->runningOnGae = true;
     }
 
     /**
