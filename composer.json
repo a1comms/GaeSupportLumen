@@ -1,11 +1,15 @@
 {
     "name": "iamacarpet/gae-support-lumen",
-    "description": "Google App Engine Support for Lumen apps.",
+    "description": "Google App Engine & Local SDK Support for Lumen apps.",
     "license": "MIT",
     "authors": [
         {
             "name": "Ron Shpasser",
             "email": "shpasser@gmail.com"
+        },
+        {
+            "name": "Samuel Melrose",
+            "email": "sam@infitialis.com"
         }
     ],
     "minimum-stability": "stable",
