@@ -1,6 +1,9 @@
 # GaeSupport
 
-[![Latest Stable Version](https://poser.pugx.org/shpasser/gae-support-lumen/v/stable)](https://packagist.org/packages/shpasser/gae-support-lumen) [![Total Downloads](https://poser.pugx.org/shpasser/gae-support-lumen/downloads)](https://packagist.org/packages/shpasser/gae-support-lumen) [![Latest Unstable Version](https://poser.pugx.org/shpasser/gae-support-lumen/v/unstable)](https://packagist.org/packages/shpasser/gae-support-lumen) [![License](https://poser.pugx.org/shpasser/gae-support-lumen/license)](https://packagist.org/packages/shpasser/gae-support-lumen)
+## Local SDK Support
+This package has been changed from shpasser's version for more compatibility for those working with the local GAE SDK.
+
+[![Latest Stable Version](https://poser.pugx.org/iamacarpet/gae-support-lumen/v/stable)](https://packagist.org/packages/shpasser/gae-support-lumen) [![Total Downloads](https://poser.pugx.org/iamacarpet/gae-support-lumen/downloads)](https://packagist.org/packages/shpasser/gae-support-lumen) [![Latest Unstable Version](https://poser.pugx.org/iamacarpet/gae-support-lumen/v/unstable)](https://packagist.org/packages/shpasser/gae-support-lumen) [![License](https://poser.pugx.org/iamacarpet/gae-support-lumen/license)](https://packagist.org/packages/shpasser/gae-support-lumen)
 
 Google App Engine(GAE) Support package for Lumen.
 
